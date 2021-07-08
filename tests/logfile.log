@@ -1,0 +1,5 @@
+2021-05-19 09:29:53,671 - test_e2e - INFO - In Home Screen
+2021-05-19 09:30:07,368 - test_login - INFO - Username : 8971393466
+2021-05-19 09:30:07,370 - test_login - INFO - Username : 123456
+2021-05-19 09:30:10,079 - test_popupmsg - INFO - You logged in successfully
+2021-05-19 09:30:10,773 - test_searchproduct - INFO - Search Keyword : Dairy Milk Chocolate 6.6 gms
